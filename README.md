@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on **innovative AI and Data Science projects**  
 - 💬 Ask me about **Python, Data Analysis, or Fitness**  
 - 📫 How to reach me: **[haticecakir93@gmail.com](mailto:haticecakir93@gmail.com)**  
-- ⚡ Fun fact: I enjoy blending **tech with creativity** and dream of living in a **cozy villa by the sea** 🌊  
 
 ---
 
